@@ -1,0 +1,12 @@
+node_modules/
+.env*
+!.env.example
+.DS_Store
+.vercel/
+tmp/
+output/
+*.log
+
+# 本地登录凭证与二维码，不进入公开仓库
+auth-qrcode*.png
+lark-auth-qrcode.png

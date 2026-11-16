@@ -1,0 +1,91 @@
+# 新疆旅游内容获客助手
+
+一个面向新疆定制旅行商家的本地内容工作台，用来整理客户与线路资料、分析竞品、沉淀内容模板，并生成小红书笔记和配图方案。
+
+## 能做什么
+
+- 管理商家定位、目标客户、线路、住宿、车辆和素材
+- 保存竞品账号并查看标题、内容和视觉分析
+- 将内容模板分为“已验证模板”和“高客单转化候选”
+- 为每种内容模板匹配可直接带入生成的首图版式
+- 根据真实线路资料生成标题、正文、卡片内容和评论区话术
+- 优先使用本地线路实拍，缺少对应场景时可调用图片模型补图
+- 记录发布后的互动和有效咨询，继续验证模板效果
+
+## 本地运行
+
+需要 Node.js 18 或更高版本。
+
+```bash
+git clone https://github.com/lisiyi720/xinjiang-contentagent.git
+cd xinjiang-contentagent
+npm install
+cp .env.example .env
+npm start
+```
+
+然后打开：
+
+```text
+http://localhost:8787
+```
+
+不配置 AI 密钥也可以浏览界面、客户资料、竞品库和模板库；生成文案、分析竞品或生成图片时，需要在 `.env` 中配置相应模型服务。
+
+## AI 配置
+
+项目支持火山方舟、DeepSeek 和 OpenAI。复制 `.env.example` 为 `.env`，按需要填写以下配置：
+
+```env
+AI_PROVIDER=volcengine
+ARK_API_KEY=你的火山方舟API Key
+ARK_MODEL=你的视觉模型ID或Endpoint ID
+ARK_TEXT_MODEL=doubao-seed-2-0-lite-260215
+```
+
+也可以将 `AI_PROVIDER` 改为 `deepseek` 或 `openai`，并填写示例文件中的对应变量。
+
+> 不要把真实 API Key 提交到 GitHub。项目已经默认忽略 `.env` 和 `.env.local`。
+
+## 常用命令
+
+```bash
+# 启动本地服务
+npm start
+
+# 根据竞品分析数据重新提炼模板
+npm run extract:templates
+
+# 分析竞品数据
+npm run analyze:competitor
+
+# 归档模板参考图片
+npm run localize:template-images
+```
+
+## 项目结构
+
+```text
+index.html        单页工作台界面与交互
+server.mjs       本地服务、内容生成和图片生成接口
+api/             Vercel Serverless 入口
+data/            竞品分析、模板和图片索引数据
+assets/          品牌、线路、客户和模板演示素材
+scripts/         竞品采集、分析和模板提炼脚本
+```
+
+## 数据与素材说明
+
+- 仓库中的线路、竞品和图片数据用于演示产品流程与模板提炼方法。
+- 竞品内容只用于研究结构、信息层级和视觉节奏，不代表原创素材授权。
+- 使用或二次发布时，请替换为自己的线路图片、价格、服务信息和已授权客户素材。
+- 不要复制竞品品牌、人物、Logo、水印、价格或原文。
+- 客户反馈、聊天截图和合影只能使用已取得授权的真实素材。
+
+## 发布说明
+
+项目包含 `vercel.json`，可以连接 Vercel 部署。部署前需要在托管平台的环境变量中配置 AI 服务密钥；不要上传本地 `.env` 文件。
+
+## 当前状态
+
+这是一个持续迭代中的产品原型。模板效果需要结合自己的账号数据验证；“转化候选”不会被视为已经验证的爆款模板。

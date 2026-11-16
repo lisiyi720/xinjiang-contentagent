@@ -1,0 +1,23 @@
+{
+  "name": "xinjiang-contentagent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "collect:xhs": "node scripts/collect-xhs-public-profile.cjs",
+    "analyze:competitor": "node scripts/analyze-competitor-notes.cjs",
+    "extract:templates": "node scripts/extract-viral-templates.cjs",
+    "localize:template-images": "node scripts/localize-template-images.cjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "html2canvas": "^1.4.1",
+    "multer": "^2.0.2",
+    "openai": "^4.104.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.61.1"
+  }
+}

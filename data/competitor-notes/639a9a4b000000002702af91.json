@@ -1,0 +1,863 @@
+{
+  "version": 1,
+  "collectedAt": "2026-08-01T07:07:15.214Z",
+  "collectionMethod": "public-profile-initial-state-and-browser",
+  "account": {
+    "id": "639a9a4b000000002702af91",
+    "profileUrl": "https://www.xiaohongshu.com/user/profile/639a9a4b000000002702af91",
+    "nickname": "愈见风高端定制旅行",
+    "redId": "49321316792",
+    "ipLocation": "新疆",
+    "description": "❣️心灵治愈之旅，愈见&遇见风\n💞情侣蜜月 | 家庭亲子 | 朋友聚会 | 公司团建\n✔️一家有温度有个性的旅行社",
+    "avatarUrl": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cgimqjm0c005osqj95ptbshnc46ugg?imageView2/2/w/360/format/webp",
+    "interactions": [
+      {
+        "type": "follows",
+        "name": "关注",
+        "count": "2"
+      },
+      {
+        "type": "fans",
+        "name": "粉丝",
+        "count": "1千+"
+      },
+      {
+        "type": "interaction",
+        "name": "获赞与收藏",
+        "count": "1万+"
+      }
+    ],
+    "metrics": {
+      "following": 2,
+      "followersText": "1千+",
+      "likesAndSavesText": "1万+",
+      "capturedAt": "2026-08-01"
+    }
+  },
+  "pagination": {
+    "cursor": "6a2aba6c000000003502825d",
+    "hasMore": true,
+    "noteIdsMayBeRedacted": true
+  },
+  "fields": [
+    "title",
+    "likes",
+    "noteUrl",
+    "coverUrl"
+  ],
+  "limitations": [
+    "Only public notes visible from the profile page are included.",
+    "Like counts are snapshots and may change.",
+    "Full note bodies, comments, saves and shares require a second-stage detail collection."
+  ],
+  "noteCount": 32,
+  "notes": [
+    {
+      "order": 1,
+      "title": "不服务所有人，只服务懂得享受新疆的人",
+      "isPinned": true,
+      "likesText": "31",
+      "likes": 31,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/61bf3d4d66e368b3a96e8aa28ac4cd84/notes_pre_post/1040g3k8320fgitc0lkd05osqj95ptbsh2765p2g!nc_n_webp_mw_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "品牌定位",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-01-7b9defc44874.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 2,
+      "title": "只为少数人定制，因为真正的新疆无法复制",
+      "isPinned": true,
+      "likesText": "29",
+      "likes": 29,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/d94bc23e384a98534a2a64b3672c4366/notes_pre_post/1040g3k8320fgitc0lkdg5osqj95ptbsh0iqttbo!nc_n_webp_mw_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "稀缺定位",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-02-5a0972dd1b66.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 3,
+      "title": "新疆定制｜很多人去过新疆，却没有真正感受过",
+      "isPinned": false,
+      "likesText": "6",
+      "likes": 6,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/44d2c5b416043d24fe63b91728fa1fc8/notes_pre_post/1040g3k03230qqp236si05osqj95ptbsh5b64qg0!nc_n_webp_mw_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "体验价值",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-03-6be7d9316cec.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 4,
+      "title": "新疆定制｜去新疆怕的是花了钱却没享受到❗️",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/87d0f2c48fef644eb467287494e001be/notes_pre_post/1040g3k83230qmlvhn0c05osqj95ptbshrcjjtbg!nc_n_webp_mw_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "消费痛点",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-04-6c8ccb3c1d50.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 5,
+      "title": "新疆定制｜有些新疆体验，不适合被复制❗️",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/d7d55dfed54dfb1a2083c1d34ef3842c/notes_pre_post/1040g3k03230qjhml6u605osqj95ptbshnhraudo!nc_n_webp_mw_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "稀缺体验",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-05-aa1b93c1c3b1.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 6,
+      "title": "新疆定制｜贵的不是价格，是一次失望的新疆",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/5e6dafb0ac11222681a36ee33d952445/notes_pre_post/1040g3k03230qjhml6u005osqj95ptbshpb6inuo!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "损失规避",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-06-d078eae139fd.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 7,
+      "title": "预算1W+去新疆❗️最怕的是“贵得很普通”",
+      "isPinned": false,
+      "likesText": "2",
+      "likes": 2,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/aa4b20c97f862b43c40fbb43e9e43aa6/notes_pre_post/1040g3k0322stefi6ms605osqj95ptbshkaf0o08!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "预算筛客",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-07-577f47e4ec21.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 8,
+      "title": "新疆拉开差距的 | 从来不是预算，而是“审美",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/c0af5eb258b37f63721b9937c7957247/notes_pre_post/1040g3k0322stbh8c6uag5osqj95ptbsh4a21g3o!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "审美价值",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-08-074444d75742.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 9,
+      "title": "真正贵的旅游不是多花钱，而是不用浪费时间",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/c472462c341f4db0a8210c0539f5688f/notes_pre_post/1040g3k0322st9ha6n2bg5osqj95ptbsh1lgcal0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "时间价值",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-09-5332e863d401.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 10,
+      "title": "高预算去新疆，真正应该升级的不是酒店❗️",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/ad83140e0bb1cd0f99355392bf79a53e/notes_pre_post/1040g3k0322st9h5in0605osqj95ptbsh39akpj0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "服务升级",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-10-1f6c798acba4.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 11,
+      "title": "AI遍地造假的时代｜新疆1w人的真实口碑✨",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/8e8aae31999cf5a08e60f0fca5d1508e/1040g2sg322rm97uvn4bg5osqj95ptbshaq6vqkg!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "口碑背书",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-11-0febfbdba8c8.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 12,
+      "title": "有钱人的松弛：最好的解压，是去一次新疆野",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/e1697c5e3c33f9e262917629ddd8e73b/1040g2sg322rm97uvn4dg5osqj95ptbsh4el3b10!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "情绪价值",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-12-81333df2f104.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 13,
+      "title": "懂新疆的人：真正的高奢，从来不是景点堆砌",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/7eb28ef3c8172d02a19b07745482d63b/notes_pre_post/1040g3k0322qael5dn2505osqj95ptbshrfv4kf0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "高奢理念",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-13-291c2c9d9b49.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 14,
+      "title": "高端玩家的新疆共识：宁愿贵一点，也要不将",
+      "isPinned": false,
+      "likesText": "2",
+      "likes": 2,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/f6ae9039e96692cf590865e6242a6d84/1040g2sg322rm97uvn4905osqj95ptbsh3bsdoqg!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "圈层筛客",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-14-5e269474b718.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 15,
+      "title": "成年人的高配松弛✨一万块在新疆换一次自愈",
+      "isPinned": false,
+      "likesText": "2",
+      "likes": 2,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/d29d2bab2ff56a6022eadd7366f71ffa/notes_pre_post/1040g3k0322nqvjbmn06g5osqj95ptbsh2i5p2no!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "情绪价值",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-15-226e623697ff.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 16,
+      "title": "新疆私定又｜预算1w+ 告别模板化流水线山河",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/a5a3ddbbc05070c73a22a6c3edfafb26/notes_pre_post/1040g3k8322nqrri5ms9g5osqj95ptbsh71tt2og!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "反模板化",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-16-39940ac9fd7d.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 17,
+      "title": "新疆定制｜普通人看风景，圈层私享稀缺山河",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/280d67393ce423e37c54728eeea3d727/notes_pre_post/1040g3k0322nqo5t7ms105osqj95ptbshgrv0fc8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "圈层筛客",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-17-d12919779e84.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 18,
+      "title": "预算1w+去新疆｜别再被流水线旅行消耗自己",
+      "isPinned": false,
+      "likesText": "3",
+      "likes": 3,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/7678eec37080e3a5609eaa2c64c1a2ca/notes_pre_post/1040g3k0322nqo5t7ms6g5osqj95ptbshma589f8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "预算筛客",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-18-83f9098b4747.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 19,
+      "title": "6k+和1w+新疆旅行❗️根本就是云泥之别",
+      "isPinned": false,
+      "likesText": "3",
+      "likes": 3,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/d878d2304d02d6ea5036057826588a0e/notes_pre_post/1040g3k8322mj08van0405osqj95ptbsh2ul0868!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "价格对比",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-19-1e44bd74949d.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 20,
+      "title": "新疆旅行｜6k与1w的差距，大到难以接受❗️",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/0fe1fa3a8553f9bae640021c47b2bd2b/notes_pre_post/1040g3k0322minp186u105osqj95ptbshnvjica8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "价格对比",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-20-fced0ab8268e.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 21,
+      "title": "说句难听的❗️低价新疆游，从来换不来松弛",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/6d02fdcf2258a4e8c1d1ed0a0419e86c/notes_pre_post/1040g3k0322minp186u3g5osqj95ptbsh0piouh0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "反低价",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-21-92e5e613e7c6.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 22,
+      "title": "抱歉❗️新疆，不适合流水线廉价旅游",
+      "isPinned": false,
+      "likesText": "3",
+      "likes": 3,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/565a97decab8da6bba2c81b28be7d022/notes_pre_post/1040g3k8322mijmdm6u2g5osqj95ptbsh9lbumqg!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "反低价",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-22-942ee6212c18.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 23,
+      "title": "去一次新疆才懂：好的旅行，从不用将就🌿",
+      "isPinned": false,
+      "likesText": "2",
+      "likes": 2,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/4a7f27b1c77f06a6d77dcf5d3849d037/notes_pre_post/1040g3k8322migib3n00g5osqj95ptbsh4b4k4jo!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "体验价值",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-23-a5bc0377aa54.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 24,
+      "title": "新疆旅行｜别被99%的伪高奢套路骗了😅",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/82823cda2f70783aa633ae1cdc872082/notes_pre_post/1040g3k0322miapad70205osqj95ptbshvv5622o!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "行业避坑",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-24-9aa394615694.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 25,
+      "title": "新疆定制游 | 不做流量爆款，只做圈层口碑❗",
+      "isPinned": false,
+      "likesText": "3",
+      "likes": 3,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/e5f351248e273dffd954e3dded1ee012/notes_pre_post/1040g3k8322mi50su6sb05osqj95ptbshmg98pc0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "品牌定位",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-25-277a5dade8e0.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 26,
+      "title": "新疆高端团的真正差距，从来不是价格❌",
+      "isPinned": false,
+      "likes": 0,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/b8a17f8f1e3489257f926be542e58d3e/notes_pre_post/1040g3k8322mi50su6sd05osqj95ptbshdbrn6so!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "新疆",
+      "angle": "高端差异",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-26-d51446ee8f22.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 27,
+      "title": "秋日限定 | 去新疆的人很多，但玩得好的不",
+      "isPinned": false,
+      "likesText": "4",
+      "likes": 4,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/826931b50e58a3d7512e67fe39fe04e5/notes_pre_post/1040g3k8322jvmurrmu705osqj95ptbshi5b0ko0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "北疆",
+      "angle": "季节产品",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-27-aa07bdd719c0.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 28,
+      "title": "北疆秋日8天 | 不是所有新疆团，都叫度假❗",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/fd8f6bd80562d0ec06ff05f59e35b507/notes_pre_post/1040g3k8322jvmurrmub05osqj95ptbsho0gtli8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "北疆",
+      "angle": "路线产品",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-28-a1ac194a96e4.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 29,
+      "title": "秋日漫游 | 为什么有人去了新疆一次就上瘾",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/3f70d8dc60e6f40b68d6676e59875677/notes_pre_post/1040g3k8322jvjrunn47g5osqj95ptbshobbv6ig!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "北疆",
+      "angle": "季节种草",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-29-cd1864b960a0.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 30,
+      "title": "秋日漫游🍂新疆的高级玩法，正在悄悄变化",
+      "isPinned": false,
+      "likesText": "1",
+      "likes": 1,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/50032a99b8be3d19af85ef615e951e13/notes_pre_post/1040g3k8322jvjrunn4dg5osqj95ptbshf4nb400!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "北疆",
+      "angle": "趋势种草",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-30-2e55d55cd859.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 31,
+      "title": "伊犁旅行｜真正的奢，是不被人群打扰的自由",
+      "isPinned": false,
+      "likesText": "10",
+      "likes": 10,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/92e168d1a4bb45e6d604c54344b6ae19/notes_pre_post/1040g3k83219dd87qms005osqj95ptbshpcnonh8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "伊犁",
+      "angle": "私享体验",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-31-d509769cd7b1.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 32,
+      "title": "新疆伊犁｜普通游客打卡，高端玩家私享秘境",
+      "isPinned": false,
+      "likesText": "4",
+      "likes": 4,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202608011506/aa3efc3b26aaf3e1711bdcd9b7d90e58/notes_pre_post/1040g3k83219dd87qms4g5osqj95ptbsh4c9f5d0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "initial-state",
+        "rendered-profile"
+      ],
+      "destination": "伊犁",
+      "angle": "圈层对比",
+      "localCoverPath": "assets/competitor-templates/639a9a4b000000002702af91/covers/visible-32-85a21a585c5e.webp",
+      "coverStatus": "localized"
+    }
+  ],
+  "scanSummary": {
+    "visibleNotesScanned": 32,
+    "latestNotesPersisted": 30,
+    "allVisibleMedianLikes": 1,
+    "latest30MedianLikes": 1,
+    "latest30AverageLikes": 1.8,
+    "latest30MaxLikes": 10,
+    "latest30AtMostThreeLikes": 26,
+    "pinnedNoteLikes": [
+      31,
+      29
+    ],
+    "indexedNotesPersisted": 32
+  },
+  "analysisCoverage": {
+    "level": "C",
+    "label": "产品包装可参考，内容增长与成交归因不足",
+    "accountNotesScanned": 32,
+    "indexedNotes": 32,
+    "stableNoteLinks": 0,
+    "coverSnapshots": 32,
+    "bodySamples": 0,
+    "commentSamples": 0,
+    "complete": [
+      "账号定位、公开规模与近期标题基线",
+      "价格锚点、筛客语言与公开封面",
+      "高端产品说明书的版式和信息层级样本",
+      "可筛选的32篇标题索引"
+    ],
+    "missing": [
+      "代表笔记完整正文和内页",
+      "评论区高频问题与预算异议",
+      "收藏、分享和发布时间",
+      "私信到成交的真实转化数据"
+    ],
+    "nextMilestone": "补6-8篇代表产品说明书的完整内页与正文，再判断配置顺序、价格解释和咨询承接。"
+  },
+  "titleAnalysis": {
+    "scope": "30篇非置顶公开标题样本；互动数为2026-08-01采集快照，部分长标题在主页展示时被截断。",
+    "baseline": {
+      "noteCount": 30,
+      "medianLikes": 1,
+      "averageLikes": 1.8,
+      "recent30MedianLikes": 1,
+      "recent30AverageLikes": 1.8,
+      "top20PercentNoteCount": 6,
+      "top20PercentLikeSharePct": 54.5,
+      "pinnedLikes": [
+        31,
+        29
+      ]
+    },
+    "decisionSummary": {
+      "copy": "把高预算筛客、明确价格锚点和酒店/车辆/体验配置做成一页一证据的高端旅行产品说明书。",
+      "avoid": "只堆“少数人、圈层、贵、高奢、松弛”等抽象词，或用贬低普通游客和低预算客户制造优越感。",
+      "testNext": "同一产品分别测试“价格+配置清单”和“具体路线+私享结果”，以有效咨询率而非点赞判断。",
+      "measurement": "以产品页停留、私信率、提交日期/人数/预算的有效咨询数和报价后继续沟通率为主。"
+    },
+    "strategies": [
+      {
+        "id": "exclusive",
+        "name": "圈层 / 稀缺身份",
+        "count": 4,
+        "medianLikes": 2.5,
+        "averageLikes": 2.5,
+        "maxLikes": 4,
+        "liftVsBaselinePct": 150,
+        "examples": [
+          {
+            "title": "新疆伊犁｜普通游客打卡，高端玩家私享秘境",
+            "likes": 4
+          },
+          {
+            "title": "新疆定制游 | 不做流量爆款，只做圈层口碑❗",
+            "likes": 3
+          }
+        ],
+        "verdict": "可做第一屏筛客，但必须立即接价格、路线或服务证据；低基线下的相对提升不能当爆款结论。"
+      },
+      {
+        "id": "route",
+        "name": "路线 / 季节产品",
+        "count": 8,
+        "medianLikes": 1,
+        "averageLikes": 2.9,
+        "maxLikes": 10,
+        "liftVsBaselinePct": 0,
+        "examples": [
+          {
+            "title": "伊犁旅行｜真正的奢，是不被人群打扰的自由",
+            "likes": 10
+          },
+          {
+            "title": "秋日限定 | 去新疆的人很多，但玩得好的不",
+            "likes": 4
+          }
+        ],
+        "verdict": "当前最高赞样本来自具体伊犁体验；产品说明书应优先写清目的地、天数和体验结果。"
+      },
+      {
+        "id": "budget",
+        "name": "预算 / 价格锚定",
+        "count": 13,
+        "medianLikes": 1,
+        "averageLikes": 1.1,
+        "maxLikes": 3,
+        "liftVsBaselinePct": 0,
+        "examples": [
+          {
+            "title": "预算1w+去新疆｜别再被流水线旅行消耗自己",
+            "likes": 3
+          },
+          {
+            "title": "6k+和1w+新疆旅行❗️根本就是云泥之别",
+            "likes": 3
+          }
+        ],
+        "verdict": "高频但中位仅1赞。价格适合筛客，不适合单独承担点击，需要解释贵在哪里。"
+      },
+      {
+        "id": "anti",
+        "name": "反低价 / 反流水线",
+        "count": 6,
+        "medianLikes": 1,
+        "averageLikes": 1.5,
+        "maxLikes": 3,
+        "liftVsBaselinePct": 0,
+        "examples": [
+          {
+            "title": "预算1w+去新疆｜别再被流水线旅行消耗自己",
+            "likes": 3
+          },
+          {
+            "title": "抱歉❗️新疆，不适合流水线廉价旅游",
+            "likes": 3
+          }
+        ],
+        "verdict": "可以表达立场，但连续否定会制造距离感；改成具体取舍与配置对比更可信。"
+      },
+      {
+        "id": "service",
+        "name": "高端 / 定制承诺",
+        "count": 13,
+        "medianLikes": 1,
+        "averageLikes": 2.3,
+        "maxLikes": 10,
+        "liftVsBaselinePct": 0,
+        "examples": [
+          {
+            "title": "伊犁旅行｜真正的奢，是不被人群打扰的自由",
+            "likes": 10
+          },
+          {
+            "title": "新疆定制｜很多人去过新疆，却没有真正感受过",
+            "likes": 6
+          }
+        ],
+        "verdict": "只能作为产品总标签；每次出现都应由酒店、车辆、领队、节奏或小众体验之一承接。"
+      },
+      {
+        "id": "emotion",
+        "name": "松弛 / 自愈价值",
+        "count": 3,
+        "medianLikes": 1,
+        "averageLikes": 1,
+        "maxLikes": 2,
+        "liftVsBaselinePct": 0,
+        "examples": [
+          {
+            "title": "成年人的高配松弛✨一万块在新疆换一次自愈",
+            "likes": 2
+          },
+          {
+            "title": "有钱人的松弛：最好的解压，是去一次新疆野",
+            "likes": 1
+          }
+        ],
+        "verdict": "与品牌简介一致，但样本互动弱。应把情绪价值翻译成少赶路、少排队、私密性和服务响应。"
+      }
+    ],
+    "historicalComparison": {
+      "scope": "仅有当前可见32篇主页样本，暂无稳定历史爆款区间。",
+      "historicalTopOutcomeSampleCount": 0,
+      "historicalTopOutcomeMedianLikes": 0,
+      "currentOutcomeLikeSampleCount": 30,
+      "currentOutcomeLikeMedianLikes": 1,
+      "baselineMedianLikes": 1,
+      "conclusion": "当前30篇非置顶中位仅1赞、26篇不超过3赞，因此它适合作为高端产品包装和价格说明书参考，不应进入爆款标题模板库。"
+    },
+    "conclusions": [
+      "账号以新疆单目的地和1w+预算为核心，用圈层、稀缺和反流水线语言筛选高预算客户。",
+      "简介覆盖情侣、亲子、朋友和团建，但30篇非置顶标题没有明确人群场景，账号承诺与内容选题存在脱节。",
+      "具体路线和季节产品样本少，但伊犁私享体验是当前非置顶最高赞，说明具体目的地与结果比抽象高奢口号更有潜力。",
+      "封面擅长黑金、米白、暗绿的杂志化排版，超大价格与配置清单适合产品说明书；真实现场与服务证据仍需补足。",
+      "两篇置顶靠品牌宣言与冠军形象建立权威，但普通内容互动很低，不能把置顶观感当作稳定内容能力。"
+    ]
+  },
+  "productBrochureReference": {
+    "role": "新疆高端定制产品说明书与价格海报参考，不作为爆款内容标杆。",
+    "reusableStructure": [
+      "第一屏：目的地/天数/人均起价，立即完成产品识别和预算筛选",
+      "第二层：野奢住宿、商务车辆、小众体验、定制师等3-5项核心配置",
+      "第三层：把“贵”解释为节省时间、避开人群、住宿稳定和服务响应",
+      "一页只证明一个卖点，使用路线、酒店、车辆和体验实景，而不是反复堆高奢形容词",
+      "结尾用日期、人数、预算和住宿偏好承接定制咨询"
+    ],
+    "visualGrammar": {
+      "palette": "米白、黑金、暗绿、深蓝，控制饱和度，突出克制和高级感。",
+      "typography": "大号中文衬线标题配细体英文副标题，价格数字作为第二视觉中心。",
+      "layout": "上部品牌/产品名，中部目的地或情绪主张，下部价格与3-5项配置，必要时加入路线天数。",
+      "imagery": "大面积低干扰实景底图或留白海报；优先真实住宿、车辆、私享场景和路线照片。"
+    },
+    "priceAnchorsObserved": [
+      "6999元起/人",
+      "8599元起/人",
+      "12800元/位",
+      "13800元/人起",
+      "预算1w+"
+    ],
+    "useWhen": [
+      "生成高端新疆旅行产品说明书",
+      "制作线路报价海报或产品首屏",
+      "筛选1万元上下的高预算客户",
+      "解释高价与普通团的具体配置差异"
+    ],
+    "doNotUseWhen": [
+      "生成大众种草或追求自然分享感的内容",
+      "判断爆款标题或账号增长策略",
+      "没有真实酒店、车辆、路线和服务配置可证明时"
+    ]
+  },
+  "assetArchive": {
+    "updatedAt": "2026-08-01T07:18:24.984Z",
+    "accountId": "639a9a4b000000002702af91",
+    "availableCoverCount": 32,
+    "failedCoverCount": 0,
+    "manifestPath": "data/competitor-image-manifests/639a9a4b000000002702af91.json"
+  }
+}

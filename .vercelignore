@@ -1,0 +1,8 @@
+.env
+.env.local
+node_modules
+lark-auth-qrcode.png
+auth-qrcode-spark-app-write.png
+*.md
+output
+tmp

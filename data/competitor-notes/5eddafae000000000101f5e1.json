@@ -1,0 +1,1429 @@
+{
+  "version": 1,
+  "collectedAt": "2026-07-29T10:22:34.830Z",
+  "collectionMethod": "public-profile-browser",
+  "account": {
+    "id": "5eddafae000000000101f5e1",
+    "profileUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1",
+    "name": "奢享家定制游",
+    "redId": "49328515415",
+    "ipLocation": "四川",
+    "description": "成立10年的定制旅行专家；覆盖家庭亲子、企业商旅、奢华酒店与私人包机等高端定制服务。",
+    "metrics": {
+      "following": 232,
+      "followers": 248000,
+      "likesAndSaves": 2367000,
+      "capturedAt": "2026-07-29"
+    }
+  },
+  "fields": [
+    "title",
+    "likes",
+    "noteUrl",
+    "coverUrl",
+    "destination",
+    "angle"
+  ],
+  "limitations": [
+    "已扫描账号页可见的246篇公开笔记，并保存账号级统计与爆款样本。",
+    "当前文件已持久化57篇标题/点赞样本，其中最新31篇含封面快照，52篇历史样本含稳定笔记ID。",
+    "账号在采集期间仍有更新，所有数量和互动数据均为时间点快照。",
+    "正文、评论、收藏和分享需要第二阶段逐篇采集。"
+  ],
+  "noteCount": 57,
+  "notes": [
+    {
+      "order": 1,
+      "id": "644637590000000013034007",
+      "title": "高奢定制 奢享家定制旅游真赢麻了❗",
+      "isPinned": true,
+      "likesText": "1232",
+      "likes": 1232,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/644637590000000013034007",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/644637590000000013034007",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/039d10bd339f5d96b3fcba46e71649ab/spectrum/1040g34o320kod8v4lc105nmtlun0btf1j3sfi28!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "综合",
+      "angle": "产品承诺",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/644637590000000013034007.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 2,
+      "id": "",
+      "title": "腾冲定制游 暑期溜娃我也能玩得开心~😁",
+      "isPinned": false,
+      "likesText": "16",
+      "likes": 16,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/2cadcec30c196f8a05b20fd8c7a69113/spectrum/1040g0k03235u43ki700g5nmtlun0btf16fkn6d8!nc_n_webp_prv_1",
+      "destination": "腾冲",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/visible-02-35638583dada.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 3,
+      "id": "",
+      "title": "带娃出游 我再也不自己做攻略了😮‍💨",
+      "isPinned": false,
+      "likesText": "16",
+      "likes": 16,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/6ffde6979818fe75be7309d6cd33ca6f/spectrum/1040g34o3235to6v6749g5nmtlun0btf1o7npfoo!nc_n_webp_prv_1",
+      "destination": "综合",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/visible-03-bbdd4b0f09a3.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 4,
+      "id": "",
+      "title": "火山温泉+高黎贡野趣！暑假带娃慢旅行",
+      "isPinned": false,
+      "likesText": "18",
+      "likes": 18,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/eff5f85dd6976f8daf85dec0fa8f0b64/spectrum/1040g34o3235td8e5n29g5nmtlun0btf1jilqdso!nc_n_webp_prv_1",
+      "destination": "腾冲",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/visible-04-4848391259d1.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 5,
+      "id": "",
+      "title": "听劝❗️这次暑期带娃去腾冲直接抄作业📖",
+      "isPinned": false,
+      "likesText": "16",
+      "likes": 16,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/71872eef5fbd9530cb19d635b2f65bf4/spectrum/1040g34o3235susg8mu505nmtlun0btf1eop6jmg!nc_n_webp_prv_1",
+      "destination": "腾冲",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/visible-05-06befc25e4aa.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 6,
+      "id": "",
+      "title": "这次腾冲旅游，我终于不用操心了😭",
+      "isPinned": false,
+      "likesText": "17",
+      "likes": 17,
+      "url": "",
+      "accessUrl": "",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/0c41f2e2b87be8e18c81c0d644e2eefd/spectrum/1040g34o3235shmt9n09g5nmtlun0btf1l7um1ro!nc_n_webp_prv_1",
+      "destination": "腾冲",
+      "angle": "目的地种草",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/visible-06-102fb7969f19.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 7,
+      "id": "6a61cf4e000000000601124e",
+      "title": "客户回程后发来好评：这趟旅行很顺利~",
+      "isPinned": false,
+      "likesText": "16",
+      "likes": 16,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a61cf4e000000000601124e",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a61cf4e000000000601124e",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/80ae56fc5c027e3d290ce01ec68d3486/spectrum/1040g34o322v5nkp66s0g5nmtlun0btf1b1cqe0g!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "综合",
+      "angle": "客户证明",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a61cf4e000000000601124e.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 8,
+      "id": "6a607bf9000000000f01d203",
+      "title": "后悔了！没早点发现香格里拉定制游这么香！",
+      "isPinned": false,
+      "likesText": "17",
+      "likes": 17,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a607bf9000000000f01d203",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a607bf9000000000f01d203",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/67308ad8f0a03004b93d154b22cd1c88/spectrum/1040g0k03236qvsr5mu005nmtlun0btf1jeoa7a8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "香格里拉",
+      "angle": "痛点避坑",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a607bf9000000000f01d203.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 9,
+      "id": "6a607a8700000000050397c4",
+      "title": "香格里拉1v1高端定制，你的旅行你说了算✅",
+      "isPinned": false,
+      "likesText": "15",
+      "likes": 15,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a607a8700000000050397c4",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a607a8700000000050397c4",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/fe6c5e9f6eeae19530f02c783b0c85e1/spectrum/1040g34o3236qvk3hms105nmtlun0btf1jhmbioo!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "香格里拉",
+      "angle": "产品承诺",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a607a8700000000050397c4.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 10,
+      "id": "6a6079370000000011014efd",
+      "title": "去香格里拉看日照金山，这份定制攻略别错过",
+      "isPinned": false,
+      "likesText": "19",
+      "likes": 19,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a6079370000000011014efd",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a6079370000000011014efd",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/adfed33d90ccfd1ded996387fa36db8a/spectrum/1040g0k03236r06hemu005nmtlun0btf1f99gago!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "香格里拉",
+      "angle": "路线攻略",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a6079370000000011014efd.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 11,
+      "id": "6a606f21000000001302e2d5",
+      "title": "7-8月香格里拉定制游 把行程安排在20℃里",
+      "isPinned": false,
+      "likesText": "16",
+      "likes": 16,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a606f21000000001302e2d5",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a606f21000000001302e2d5",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/ee22ee5aeed866117aa64422665a71fe/spectrum/1040g0k0322trcids6u3g5nmtlun0btf1i68r6u0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "香格里拉",
+      "angle": "路线攻略",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a606f21000000001302e2d5.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 12,
+      "id": "6a606a9700000000010007ed",
+      "title": "20℃、雪山、草甸，香格里拉的夏天太会了~",
+      "isPinned": false,
+      "likesText": "18",
+      "likes": 18,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a606a9700000000010007ed",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a606a9700000000010007ed",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/2e5d7664c55969540265bac1e78c12b9/spectrum/1040g0k0322tqrjq06s305nmtlun0btf1li44erg!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "香格里拉",
+      "angle": "目的地种草",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a606a9700000000010007ed.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 13,
+      "id": "6a5f3b26000000001c00e5c7",
+      "title": "客户说“安全感满满”，定制游做对了什么？",
+      "isPinned": false,
+      "likesText": "12",
+      "likes": 12,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5f3b26000000001c00e5c7",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5f3b26000000001c00e5c7",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/f6d51b000e9c98b9e22b086f84f6b997/spectrum/1040g34o322sm4s2un0505nmtlun0btf1t40bls0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "综合",
+      "angle": "客户证明",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a5f3b26000000001c00e5c7.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 14,
+      "id": "6a5749b8000000001702ce9e",
+      "title": "拜托🙏暑假带娃去西安的，都看看这篇~",
+      "isPinned": false,
+      "likesText": "17",
+      "likes": 17,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5749b8000000001702ce9e",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5749b8000000001702ce9e",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/ca8319a86349274f53e30569f1cf48ad/spectrum/1040g34o322ktjjka6u705nmtlun0btf1ispqbro!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "西安",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a5749b8000000001702ce9e.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 15,
+      "id": "6a5745a0000000000803caff",
+      "title": "西安5日深度游✨ 带娃不费脑超全攻略~",
+      "isPinned": false,
+      "likesText": "14",
+      "likes": 14,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5745a0000000000803caff",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5745a0000000000803caff",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/d7ef4fd28f15f2e3cdc2bbce9de15a44/spectrum/1040g0k0322kta53d6u005nmtlun0btf14gqptuo!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "西安",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a5745a0000000000803caff.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 16,
+      "id": "6a5743f9000000000f030676",
+      "title": "西安就得这样玩❗别让低价团毁了您的假期~",
+      "isPinned": false,
+      "likesText": "16",
+      "likes": 16,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5743f9000000000f030676",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a5743f9000000000f030676",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/712132516dd12c79111663e800bb70dc/spectrum/1040g34o322ksf87574705nmtlun0btf1t34r5cg!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "西安",
+      "angle": "痛点避坑",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a5743f9000000000f030676.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 17,
+      "id": "6a55f8f4000000002102302e",
+      "title": "西安定制游 拜托🙏暑假带娃去西安吧~",
+      "isPinned": false,
+      "likesText": "18",
+      "likes": 18,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a55f8f4000000002102302e",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a55f8f4000000002102302e",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/d18ea4a2f9a856d69853c737afc1a5e7/spectrum/1040g0k0322jklf01n4005nmtlun0btf174egjto!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "西安",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a55f8f4000000002102302e.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 18,
+      "id": "6a55f6a3000000001101ddec",
+      "title": "西安定制游｜不同于常规拼团的高端体验~",
+      "isPinned": false,
+      "likesText": "20",
+      "likes": 20,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a55f6a3000000001101ddec",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a55f6a3000000001101ddec",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/0f9c9fb3b510ae72ba0f0eba0121ed3d/spectrum/1040g0k0322jka8u4n0005nmtlun0btf1gbofd1o!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "西安",
+      "angle": "产品承诺",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a55f6a3000000001101ddec.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 19,
+      "id": "6a520e5a000000002101a8f4",
+      "title": "国内版冰岛瑞士！来云南体验仅有22℃的夏天",
+      "isPinned": false,
+      "likesText": "63",
+      "likes": 63,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520e5a000000002101a8f4",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520e5a000000002101a8f4",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/7f40e4ebeaa10372f8f0730ac4f0a0c7/spectrum/1040g0k0322fqal816u005nmtlun0btf12cspg50!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "目的地种草",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a520e5a000000002101a8f4.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 20,
+      "id": "6a520cef0000000011012eed",
+      "title": "避暑遛娃双自由｜暑假来云南娃玩疯，妈躺平",
+      "isPinned": false,
+      "likesText": "31",
+      "likes": 31,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520cef0000000011012eed",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520cef0000000011012eed",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/e98bd753c4a8641b9c2f356bb8e8572c/spectrum/1040g34o322fq85od6s105nmtlun0btf1nlqnlv0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a520cef0000000011012eed.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 21,
+      "id": "6a520c4e000000001101b63f",
+      "title": "暑假带娃去云南“放疯”不费妈定制游太爽啦",
+      "isPinned": false,
+      "likesText": "18",
+      "likes": 18,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520c4e000000001101b63f",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520c4e000000001101b63f",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/764df462b029c644eebc27529e2de16c/spectrum/1040g34o322fq5sfs72105nmtlun0btf1r4nphd8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "亲子家庭",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a520c4e000000001101b63f.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 22,
+      "id": "6a520bba000000001101c711",
+      "title": "云南定制游丨纯玩0购物！一价全含奢华游",
+      "isPinned": false,
+      "likesText": "45",
+      "likes": 45,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520bba000000001101c711",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520bba000000001101c711",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/28292cf46e526bc4e6c0be3586802585/spectrum/1040g0k0322fq3j51n0005nmtlun0btf1c89jlvg!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "产品承诺",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a520bba000000001101c711.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 23,
+      "id": "6a520acc000000001503c834",
+      "title": "在云南！国内99%的人不知道的粉红沙滩在这",
+      "isPinned": false,
+      "likesText": "25",
+      "likes": 25,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520acc000000001503c834",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a520acc000000001503c834",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/2cd76722ab7ea6d1f8726fcda1055c2a/spectrum/1040g34o322fpvl6574105nmtlun0btf1s63d20o!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "目的地种草",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a520acc000000001503c834.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 24,
+      "id": "6a4e0be20000000017029ddf",
+      "title": "青甘环线｜戈壁大漠里一幅水墨画尽收眼底❗",
+      "isPinned": false,
+      "likesText": "29",
+      "likes": 29,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0be20000000017029ddf",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0be20000000017029ddf",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/490330f820eacc31c9b39dd16746b656/spectrum/1040g34o322bt4crh74105nmtlun0btf1cd5cr7o!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "青甘/西北",
+      "angle": "路线攻略",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a4e0be20000000017029ddf.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 25,
+      "id": "6a4e0b4d0000000008031097",
+      "title": "夏天一定要去一次青甘旅游，风景美到像电影",
+      "isPinned": false,
+      "likesText": "27",
+      "likes": 27,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0b4d0000000008031097",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0b4d0000000008031097",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/990f559f50d652488cb5bab9e558205d/spectrum/1040g34o322bt2cal6u105nmtlun0btf1slvb64g!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "青甘/西北",
+      "angle": "目的地种草",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a4e0b4d0000000008031097.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 26,
+      "id": "6a4e0acc0000000017029667",
+      "title": "人少景美西北旅游路线！暑假强推❗️",
+      "isPinned": false,
+      "likesText": "21",
+      "likes": 21,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0acc0000000017029667",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0acc0000000017029667",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/e2d8ac6cdcdd1552561952c0c801db48/spectrum/1040g0k0322bsvvd772005nmtlun0btf1eqpbth0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "青甘/西北",
+      "angle": "路线攻略",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a4e0acc0000000017029667.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 27,
+      "id": "6a4e0a3e000000001c026a0d",
+      "title": "青甘环线｜很少用震撼来形容一个地方！！！",
+      "isPinned": false,
+      "likesText": "30",
+      "likes": 30,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0a3e000000001c026a0d",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e0a3e000000001c026a0d",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/02276b40a7667ca5ebaa104328fa78d3/spectrum/1040g0k0322bshlnf6u005nmtlun0btf1l41pv0o!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "青甘/西北",
+      "angle": "路线攻略",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a4e0a3e000000001c026a0d.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 28,
+      "id": "6a4e067c000000000f01ca72",
+      "title": "青甘环线｜请查收：《国家地理》的蓝绿宝石",
+      "isPinned": false,
+      "likesText": "112",
+      "likes": 112,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e067c000000000f01ca72",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4e067c000000000f01ca72",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/b1d9567e1d913bcf0e51b992fbf15b92/spectrum/1040g0k0322bsd00umu705nmtlun0btf1e02a1d0!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "青甘/西北",
+      "angle": "路线攻略",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a4e067c000000000f01ca72.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 29,
+      "id": "6a4a03b6000000000f01edb4",
+      "title": "暑期不赶趟 定制版北疆旅游 把时间还给风景",
+      "isPinned": false,
+      "likesText": "23",
+      "likes": 23,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4a03b6000000000f01edb4",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a4a03b6000000000f01edb4",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/95f7c85c135d4add37952cd43c174175/spectrum/1040g34o3227ugr3b6u8g5nmtlun0btf1i49tlso!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "产品承诺",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a4a03b6000000000f01edb4.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 30,
+      "id": "6a49fe1f00000000110104e9",
+      "title": "暑期旺季新疆避坑攻略 提前定制全程无忧！",
+      "isPinned": false,
+      "likesText": "48",
+      "likes": 48,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a49fe1f00000000110104e9",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a49fe1f00000000110104e9",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/e65b85324009fb2a71bfff8018e0849e/spectrum/1040g34o3227tdkpp6ufg5nmtlun0btf137u43qo!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "痛点避坑",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a49fe1f00000000110104e9.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 31,
+      "id": "6a48ceb5000000000f016bc2",
+      "title": "新疆不止远方，去过这些地方才算不留遗憾",
+      "isPinned": false,
+      "likesText": "21",
+      "likes": 21,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a48ceb5000000000f016bc2",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a48ceb5000000000f016bc2",
+      "coverUrl": "https://sns-webpic-qc.xhscdn.com/202607291822/54d654d023d23a9c5bf5b3202c12c441/spectrum/1040g34o3226pb5hpms105nmtlun0btf1kr98lf8!nc_n_webp_prv_1",
+      "collectionSources": [
+        "public-latest-snapshot",
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "目的地种草",
+      "localCoverPath": "assets/competitor-templates/5eddafae000000000101f5e1/covers/6a48ceb5000000000f016bc2.webp",
+      "coverStatus": "localized"
+    },
+    {
+      "order": 32,
+      "id": "6a48cd9e000000001101cece",
+      "title": "新疆旅游的爽感，来自少操心和不赶路💫",
+      "isPinned": false,
+      "likesText": "45",
+      "likes": 45,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a48cd9e000000001101cece",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a48cd9e000000001101cece",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 33,
+      "id": "6a48cced000000000f028d82",
+      "title": "新疆攻略‼️不赶路、不累娃的暑假旅游路线",
+      "isPinned": false,
+      "likesText": "21",
+      "likes": 21,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a48cced000000000f028d82",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a48cced000000000f028d82",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 34,
+      "id": "6a47b647000000001101cf22",
+      "title": "腾冲遛娃新玩法：进原始森林撒欢去🌿",
+      "isPinned": false,
+      "likesText": "22",
+      "likes": 22,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a47b647000000001101cf22",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a47b647000000001101cf22",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "腾冲",
+      "angle": "亲子家庭"
+    },
+    {
+      "order": 35,
+      "id": "6a47aed3000000001101f30e",
+      "title": "腾冲定制游 暑期旺季出游轻松玩转~",
+      "isPinned": false,
+      "likesText": "19",
+      "likes": 19,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a47aed3000000001101f30e",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a47aed3000000001101f30e",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "腾冲",
+      "angle": "产品承诺"
+    },
+    {
+      "order": 36,
+      "id": "6a47ab99000000001102d832",
+      "title": "徒步漫游 私汤入眠 腾冲就该这样玩✔️",
+      "isPinned": false,
+      "likesText": "20",
+      "likes": 20,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a47ab99000000001102d832",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a47ab99000000001102d832",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "腾冲",
+      "angle": "酒店体验"
+    },
+    {
+      "order": 37,
+      "id": "6a476dd3000000001102db23",
+      "title": "腾冲定制游 放弃大理！暑假冲23℃的腾冲~",
+      "isPinned": false,
+      "likesText": "58",
+      "likes": 58,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a476dd3000000001102db23",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a476dd3000000001102db23",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "腾冲",
+      "angle": "产品承诺"
+    },
+    {
+      "order": 38,
+      "id": "6a476cbe000000000f033b40",
+      "title": "腾冲定制游 这个盛夏躲进腾冲清凉山谷中！",
+      "isPinned": false,
+      "likesText": "20",
+      "likes": 20,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a476cbe000000000f033b40",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a476cbe000000000f033b40",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "腾冲",
+      "angle": "产品承诺"
+    },
+    {
+      "order": 39,
+      "id": "6a466f76000000001101c731",
+      "title": "避开人流，小众避暑，内蒙古美到失语了！",
+      "isPinned": false,
+      "likesText": "21",
+      "likes": 21,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a466f76000000001101c731",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a466f76000000001101c731",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "内蒙古",
+      "angle": "目的地种草"
+    },
+    {
+      "order": 40,
+      "id": "6a466d4d000000001003c136",
+      "title": "被内蒙古的夏天治愈了！7天深度草原亲子游",
+      "isPinned": false,
+      "likesText": "19",
+      "likes": 19,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a466d4d000000001003c136",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a466d4d000000001003c136",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "内蒙古",
+      "angle": "亲子家庭"
+    },
+    {
+      "order": 41,
+      "id": "6a465e6000000000110142fb",
+      "title": "暑假去内蒙古怎么玩不踩雷❓定制游一站包揽",
+      "isPinned": false,
+      "likesText": "21",
+      "likes": 21,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a465e6000000000110142fb",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a465e6000000000110142fb",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "内蒙古",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 42,
+      "id": "6a465a940000000022018617",
+      "title": "内蒙古旅游 私导专车慢赏火山草原星空",
+      "isPinned": false,
+      "likesText": "17",
+      "likes": 17,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a465a940000000022018617",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a465a940000000022018617",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "内蒙古",
+      "angle": "产品承诺"
+    },
+    {
+      "order": 43,
+      "id": "6a465818000000001101ef49",
+      "title": "拒绝拉练‼️定制游沉浸式畅玩内蒙古~",
+      "isPinned": false,
+      "likesText": "46",
+      "likes": 46,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a465818000000001101ef49",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a465818000000001101ef49",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "内蒙古",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 44,
+      "id": "6a3cdd39000000000f004512",
+      "title": "暑期游贵州 住瀑景美居 私享小众秘境风光！",
+      "isPinned": false,
+      "likesText": "20",
+      "likes": 20,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cdd39000000000f004512",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cdd39000000000f004512",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "贵州",
+      "angle": "目的地种草"
+    },
+    {
+      "order": 45,
+      "id": "6a3cd9f5000000000f031f1c",
+      "title": "暑期下榻黄果树柏联 枕瀑听泉而眠～",
+      "isPinned": false,
+      "likesText": "17",
+      "likes": 17,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd9f5000000000f031f1c",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd9f5000000000f031f1c",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "贵州",
+      "angle": "目的地种草"
+    },
+    {
+      "order": 46,
+      "id": "6a3cd6ec000000000f0159de",
+      "title": "私汤观瀑 暑期解锁小众隐逸奢适之旅~",
+      "isPinned": false,
+      "likesText": "13",
+      "likes": 13,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd6ec000000000f0159de",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd6ec000000000f0159de",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "综合",
+      "angle": "酒店体验"
+    },
+    {
+      "order": 47,
+      "id": "6a3cd27100000000220180fc",
+      "title": "好酒店即目的地 住进黄果树瀑布风景里❗❗",
+      "isPinned": false,
+      "likesText": "12",
+      "likes": 12,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd27100000000220180fc",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd27100000000220180fc",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "贵州",
+      "angle": "酒店体验"
+    },
+    {
+      "order": 48,
+      "id": "6a3cd234000000001003fab8",
+      "title": "酒店控！推窗即瀑 住进山水画里才是真度假",
+      "isPinned": false,
+      "likesText": "85",
+      "likes": 85,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd234000000001003fab8",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3cd234000000001003fab8",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "综合",
+      "angle": "酒店体验"
+    },
+    {
+      "order": 49,
+      "id": "6a3a8619000000000f0173ee",
+      "title": "拒绝特种兵！云南定制亲子游，才是暑假王牌",
+      "isPinned": false,
+      "likesText": "65",
+      "likes": 65,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a8619000000000f0173ee",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a8619000000000f0173ee",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "亲子家庭"
+    },
+    {
+      "order": 50,
+      "id": "6a3a8550000000001101dbfc",
+      "title": "云南旅游｜夏日避暑体验雨林的绿野仙踪🍃",
+      "isPinned": false,
+      "likesText": "24",
+      "likes": 24,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a8550000000001101dbfc",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a8550000000001101dbfc",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "目的地种草"
+    },
+    {
+      "order": 51,
+      "id": "6a3a84b30000000011007169",
+      "title": "暑假带娃赴云南｜高端私定亲子游，拒绝赶路",
+      "isPinned": false,
+      "likesText": "25",
+      "likes": 25,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a84b30000000011007169",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a84b30000000011007169",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "亲子家庭"
+    },
+    {
+      "order": 52,
+      "id": "6a3a845d000000001101d86a",
+      "title": "真正懂云南的人，夏日出游是这样玩的✔️",
+      "isPinned": false,
+      "likesText": "18",
+      "likes": 18,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a845d000000001101d86a",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a845d000000001101d86a",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "目的地种草"
+    },
+    {
+      "order": 53,
+      "id": "6a3a71d1000000001101b36b",
+      "title": "天呐😱终于找到纯玩不踩雷的云南定制游",
+      "isPinned": false,
+      "likesText": "22",
+      "likes": 22,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a71d1000000001101b36b",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a3a71d1000000001101b36b",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "云南",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 54,
+      "id": "6a35019700000000110118c0",
+      "title": "暑期清凉慢生活 绿野仙踪阿勒泰~",
+      "isPinned": false,
+      "likesText": "22",
+      "likes": 22,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a35019700000000110118c0",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a35019700000000110118c0",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "目的地种草"
+    },
+    {
+      "order": 55,
+      "id": "6a34fec9000000001101fc64",
+      "title": "不拼团不赶路！玩转阿勒泰野奢攻略请查收",
+      "isPinned": false,
+      "likesText": "20",
+      "likes": 20,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a34fec9000000001101fc64",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a34fec9000000001101fc64",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 56,
+      "id": "6a34fc6c0000000011004230",
+      "title": "拒绝酷暑 暑期凉爽度假好去处❗❗",
+      "isPinned": false,
+      "likesText": "25",
+      "likes": 25,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a34fc6c0000000011004230",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a34fc6c0000000011004230",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "综合",
+      "angle": "痛点避坑"
+    },
+    {
+      "order": 57,
+      "id": "6a34f76f000000000f0173aa",
+      "title": "不在瑞士 阿勒泰的夏天美疯了！！",
+      "isPinned": false,
+      "likesText": "52",
+      "likes": 52,
+      "url": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a34f76f000000000f0173aa",
+      "accessUrl": "https://www.xiaohongshu.com/user/profile/5eddafae000000000101f5e1/6a34f76f000000000f0173aa",
+      "coverUrl": "",
+      "collectionSources": [
+        "authenticated-profile-scan"
+      ],
+      "destination": "新疆",
+      "angle": "目的地种草"
+    }
+  ],
+  "deepSamples": [
+    {
+      "title": "放弃芬兰，带父母新疆定制游，被问爆了！",
+      "sourceUrl": "https://www.15386.cn/post/69216.html",
+      "sourceType": "third-party-public-repost",
+      "verification": "公开转载页明确使用“奢享家”品牌与相同产品话术，但未能从原小红书详情页直接核验；仅用于正文结构观察，不计入账号互动统计。",
+      "destination": "新疆",
+      "audience": "家庭 / 带父母",
+      "structure": [
+        "季节画面开场，先让用户想象秋冬阿勒泰",
+        "品牌资历与高奢定位",
+        "北疆目的地范围，以及不赶路、少长车程的结果承诺",
+        "用“奢、享、家”三段解释住宿、餐饮和车辆",
+        "列出不拼团、拒绝模板、重在地体验等服务承诺",
+        "按体验和酒店逐项提供具体证明",
+        "补充品牌背书与服务理由",
+        "用目的地、时间、人数三个字段承接私信"
+      ],
+      "conversion": {
+        "cta": "私信提交目的地、时间和人数，换取专属行程与报价",
+        "leadFields": [
+          "目的地",
+          "时间",
+          "人数"
+        ]
+      },
+      "observations": [
+        "正文先卖旅行结果，再解释服务配置，阅读顺序比直接罗列产品更自然。",
+        "大量酒店、车型和在地体验名词承担信任证明，抽象的“高奢”只是总标签。",
+        "结尾给出明确的私信字段，转化入口比泛泛的“欢迎咨询”更可执行。"
+      ],
+      "capturedAt": "2026-07-29"
+    }
+  ],
+  "scanSummary": {
+    "visibleNotesScanned": 246,
+    "latestNotesPersisted": 31,
+    "allVisibleMedianLikes": 54,
+    "latest30MedianLikes": 18,
+    "latest30AverageLikes": 25.8,
+    "latest30MaxLikes": 112,
+    "pinnedNoteLikes": 1232,
+    "historicalTopNotes": [
+      {
+        "title": "去川西啦！小团安全下车！！！",
+        "likesText": "10万+",
+        "likes": 100000
+      },
+      {
+        "title": "去川西了！和闺蜜小团成功下车了！",
+        "likesText": "10万+",
+        "likes": 100000
+      },
+      {
+        "title": "新疆已回被问爆了！人均1w+的高奢游太赞了",
+        "likesText": "9.9万",
+        "likes": 99000
+      },
+      {
+        "title": "云南高奢定制 | 专属行程+亲子友好体验全含",
+        "likesText": "4.5万",
+        "likes": 45000
+      },
+      {
+        "title": "大学生勇闯川西，遇到神仙领队！",
+        "likesText": "1.9万",
+        "likes": 19000
+      },
+      {
+        "title": "听我一句劝‼️Malaysia成都必打卡景点",
+        "likesText": "1.8万",
+        "likes": 18000
+      },
+      {
+        "title": "四川旅游 私人定制旅行，全程不踩坑！！",
+        "likesText": "1.3万",
+        "likes": 13000
+      },
+      {
+        "title": "新疆私定高奢游｜住进雪山野奢营地✨",
+        "likesText": "1.1万",
+        "likes": 11000
+      },
+      {
+        "title": "云南高端定制 | 体验躺平式奢华度假",
+        "likesText": "8288",
+        "likes": 8288
+      },
+      {
+        "title": "云南高奢定制游 | 带你把风景住进日常里",
+        "likesText": "8040",
+        "likes": 8040
+      }
+    ],
+    "indexedNotesPersisted": 57
+  },
+  "quantitativeAnalysis": {
+    "scope": "57篇已持久化标题/点赞样本；互动数为采集时快照，置顶笔记会显著抬高均值，决策优先看中位数。",
+    "byDestination": [
+      {
+        "name": "云南",
+        "count": 10,
+        "medianLikes": 25,
+        "averageLikes": 33.6,
+        "maxLikes": 65
+      },
+      {
+        "name": "腾冲",
+        "count": 9,
+        "medianLikes": 19,
+        "averageLikes": 22.9,
+        "maxLikes": 58
+      },
+      {
+        "name": "新疆",
+        "count": 8,
+        "medianLikes": 23,
+        "averageLikes": 31.5,
+        "maxLikes": 52
+      },
+      {
+        "name": "综合",
+        "count": 7,
+        "medianLikes": 16,
+        "averageLikes": 199.9,
+        "maxLikes": 1232
+      },
+      {
+        "name": "香格里拉",
+        "count": 5,
+        "medianLikes": 17,
+        "averageLikes": 17,
+        "maxLikes": 19
+      },
+      {
+        "name": "西安",
+        "count": 5,
+        "medianLikes": 17,
+        "averageLikes": 17,
+        "maxLikes": 20
+      },
+      {
+        "name": "青甘/西北",
+        "count": 5,
+        "medianLikes": 29,
+        "averageLikes": 43.8,
+        "maxLikes": 112
+      },
+      {
+        "name": "内蒙古",
+        "count": 5,
+        "medianLikes": 21,
+        "averageLikes": 24.8,
+        "maxLikes": 46
+      },
+      {
+        "name": "贵州",
+        "count": 3,
+        "medianLikes": 17,
+        "averageLikes": 16.3,
+        "maxLikes": 20
+      }
+    ],
+    "byAngle": [
+      {
+        "name": "亲子家庭",
+        "count": 13,
+        "medianLikes": 18,
+        "averageLikes": 22.7,
+        "maxLikes": 65
+      },
+      {
+        "name": "目的地种草",
+        "count": 13,
+        "medianLikes": 21,
+        "averageLikes": 26.5,
+        "maxLikes": 63
+      },
+      {
+        "name": "痛点避坑",
+        "count": 10,
+        "medianLikes": 22,
+        "averageLikes": 28.1,
+        "maxLikes": 48
+      },
+      {
+        "name": "产品承诺",
+        "count": 9,
+        "medianLikes": 20,
+        "averageLikes": 161,
+        "maxLikes": 1232
+      },
+      {
+        "name": "路线攻略",
+        "count": 6,
+        "medianLikes": 29,
+        "averageLikes": 37.8,
+        "maxLikes": 112
+      },
+      {
+        "name": "酒店体验",
+        "count": 4,
+        "medianLikes": 20,
+        "averageLikes": 32.5,
+        "maxLikes": 85
+      },
+      {
+        "name": "客户证明",
+        "count": 2,
+        "medianLikes": 16,
+        "averageLikes": 14,
+        "maxLikes": 16
+      }
+    ],
+    "findings": [
+      "近期样本中，路线攻略中位29赞，高于痛点避坑22赞、目的地种草21赞和亲子家庭18赞。",
+      "目的地样本中，青甘/西北中位29赞、云南25赞、新疆23赞；香格里拉和西安均为17赞。",
+      "亲子家庭内容数量最多之一，但中位互动最低，说明只写“带娃不累”已经同质化，必须补充路线取舍或服务证据。",
+      "账号历史10万+爆款集中在第一人称结果叙事，近期标准化品牌标题多数落在十几到几十赞。"
+    ]
+  },
+  "analysisCoverage": {
+    "level": "B",
+    "label": "标题策略可决策，成交归因待补证",
+    "accountNotesScanned": 246,
+    "indexedNotes": 57,
+    "stableNoteLinks": 52,
+    "coverSnapshots": 31,
+    "bodySamples": 1,
+    "commentSamples": 0,
+    "complete": [
+      "账号规模与近期互动基线",
+      "标题、点赞、目的地和内容角度",
+      "历史爆款标题样本",
+      "可搜索、筛选和排序的笔记索引"
+    ],
+    "missing": [
+      "代表笔记完整正文",
+      "评论区高频问题与异议",
+      "收藏、分享和发布时间",
+      "私信到成交的真实转化数据"
+    ],
+    "nextMilestone": "补8-12篇代表笔记正文和每篇20条高赞评论，再判断开头、正文结构与转化话术。"
+  },
+  "titleAnalysis": {
+    "scope": "56篇非置顶、带点赞的标题样本；所有互动数为采集时快照。",
+    "baseline": {
+      "noteCount": 56,
+      "medianLikes": 20,
+      "averageLikes": 27.2,
+      "recent30MedianLikes": 18,
+      "recent30AverageLikes": 25.8,
+      "top20PercentNoteCount": 12,
+      "top20PercentLikeSharePct": 44.6,
+      "pinnedLikes": 1232
+    },
+    "decisionSummary": {
+      "copy": "反差/拒绝常规玩法 + 具体路线或住宿场景 + 明确体验结果。",
+      "avoid": "只写“高端定制、带娃不累、暑期必去”这类抽象承诺。",
+      "testNext": "真实客户结果 + 行程取舍证据，例如少去两个点后每天少坐多久车。",
+      "measurement": "以发布7天后的收藏率、私信率和有效咨询数为主，点赞只作辅助。"
+    },
+    "strategies": [
+      {
+        "id": "contrast",
+        "name": "反差 / 拒绝常规玩法",
+        "count": 9,
+        "medianLikes": 46,
+        "averageLikes": 40.8,
+        "maxLikes": 65,
+        "liftVsBaselinePct": 130,
+        "examples": [
+          {
+            "title": "拒绝特种兵！云南定制亲子游，才是暑假王牌",
+            "likes": 65
+          },
+          {
+            "title": "国内版冰岛瑞士！来云南体验仅有22℃的夏天",
+            "likes": 63
+          }
+        ],
+        "verdict": "优先复用结构：先否定常规玩法，再给具体替代结果。"
+      },
+      {
+        "id": "route-scene",
+        "name": "路线信息 + 画面场景",
+        "count": 3,
+        "medianLikes": 30,
+        "averageLikes": 57,
+        "maxLikes": 112,
+        "liftVsBaselinePct": 50,
+        "examples": [
+          {
+            "title": "青甘环线｜请查收：《国家地理》的蓝绿宝石",
+            "likes": 112
+          },
+          {
+            "title": "青甘环线｜很少用震撼来形容一个地方！！！",
+            "likes": 30
+          }
+        ],
+        "verdict": "样本少但表现好，适合扩大测试；标题同时回答“怎么玩”和“能看到什么”。"
+      },
+      {
+        "id": "pain",
+        "name": "痛点 / 避坑",
+        "count": 17,
+        "medianLikes": 21,
+        "averageLikes": 27,
+        "maxLikes": 65,
+        "liftVsBaselinePct": 5,
+        "examples": [
+          {
+            "title": "拒绝特种兵！云南定制亲子游，才是暑假王牌",
+            "likes": 65
+          },
+          {
+            "title": "暑期旺季新疆避坑攻略 提前定制全程无忧！",
+            "likes": 48
+          }
+        ],
+        "verdict": "可以稳定使用，但必须补车程、住宿、体力或费用证据，不能只喊“避坑”。"
+      },
+      {
+        "id": "emotion",
+        "name": "强情绪符号",
+        "count": 37,
+        "medianLikes": 21,
+        "averageLikes": 28.5,
+        "maxLikes": 85,
+        "liftVsBaselinePct": 5,
+        "examples": [
+          {
+            "title": "酒店控！推窗即瀑 住进山水画里才是真度假",
+            "likes": 85
+          },
+          {
+            "title": "拒绝特种兵！云南定制亲子游，才是暑假王牌",
+            "likes": 65
+          }
+        ],
+        "verdict": "使用频率高，但中位表现接近基线；它是包装，不是增长原因。"
+      },
+      {
+        "id": "service",
+        "name": "高端 / 定制承诺",
+        "count": 22,
+        "medianLikes": 20,
+        "averageLikes": 26.4,
+        "maxLikes": 65,
+        "liftVsBaselinePct": 0,
+        "examples": [
+          {
+            "title": "拒绝特种兵！云南定制亲子游，才是暑假王牌",
+            "likes": 65
+          },
+          {
+            "title": "腾冲定制游 放弃大理！暑假冲23℃的腾冲~",
+            "likes": 58
+          }
+        ],
+        "verdict": "适合作为筛客信息，不适合单独承担点击；需要和真实场景或结果组合。"
+      },
+      {
+        "id": "family",
+        "name": "亲子 / 带娃",
+        "count": 14,
+        "medianLikes": 18,
+        "averageLikes": 22.6,
+        "maxLikes": 65,
+        "liftVsBaselinePct": -10,
+        "examples": [
+          {
+            "title": "拒绝特种兵！云南定制亲子游，才是暑假王牌",
+            "likes": 65
+          },
+          {
+            "title": "避暑遛娃双自由｜暑假来云南娃玩疯，妈躺平",
+            "likes": 31
+          }
+        ],
+        "verdict": "供给过多且同质化。减少“带娃不累”口号，改写成年龄、车程和体力取舍。"
+      }
+    ],
+    "historicalComparison": {
+      "scope": "历史数据仅来自账号页可见Top样本，用于比较表达方式，不代表全量历史中位数。",
+      "historicalTopOutcomeSampleCount": 6,
+      "historicalTopOutcomeMedianLikes": 59000,
+      "currentOutcomeLikeSampleCount": 7,
+      "currentOutcomeLikeMedianLikes": 17,
+      "baselineMedianLikes": 20,
+      "conclusion": "历史爆款靠真实用户结果叙事；近期只套“我、终于、后悔”等口吻并没有带来同等效果。要复用的是客户证据和结果，不是语气词。"
+    },
+    "conclusions": [
+      "非置顶样本中位20赞，近30篇中位18赞，近期内容效率低于这批索引的整体基线。",
+      "“反差/拒绝常规玩法”标题的中位表现最高；真正起作用的是清晰取舍，不是感叹号。",
+      "“路线信息+画面场景”兼顾搜索价值和向往感，是比泛泛“高端定制”更值得持续测试的组合。",
+      "亲子内容量大但中位表现偏低，说明人群标签已经不稀缺，必须用年龄、体力、车程和住宿证据区分。",
+      "置顶与历史爆款会显著抬高观感，评估竞品时应始终分开看历史上限、近期基线和单篇异常值。"
+    ]
+  },
+  "assetArchive": {
+    "updatedAt": "2026-07-29T14:33:43.555Z",
+    "accountId": "5eddafae000000000101f5e1",
+    "availableCoverCount": 31,
+    "failedCoverCount": 0,
+    "manifestPath": "data/template-image-manifest.json"
+  }
+}
